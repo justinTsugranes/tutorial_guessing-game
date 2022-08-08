@@ -1,0 +1,35 @@
+html {
+  font-family: sans-serif;
+}
+
+body {
+  width: 50%;
+  max-width: 800px;
+  min-width: 480px;
+  margin: 0 auto;
+  background: rgb(34, 193, 195);
+  background-image: linear-gradient(
+    0deg,
+    rgba(34, 193, 195, 1) 0%,
+    rgb(250, 191, 65) 100%
+  );
+  background-repeat: no-repeat;
+}
+
+.form input[type='number'] {
+  width: 200px;
+}
+
+.lastResult {
+  color: white;
+  padding: 3px;
+}
+
+.guessSubmit {
+  border-radius: 15px 15px;
+  box-shadow: 2px 3px #888888;
+}
+
+.guessSubmit:hover {
+  background-color: #e7bc46;
+}

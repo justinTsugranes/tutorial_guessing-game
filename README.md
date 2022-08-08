@@ -8,9 +8,7 @@ Let's imagine your boss has given you the following brief for creating this game
 
 I want you to create a simple guess the number type game. It should choose a random number between 1 and 100, then challenge the player to guess the number in 10 turns. After each turn the player should be told if they are right or wrong, and if they are wrong, whether the guess was too low or too high. It should also tell the player what numbers they previously guessed. The game will end once the player guesses correctly, or once they run out of turns. When the game ends, the player should be given an option to start playing again.
 
-###
-
-Upon looking at this brief, the first thing we can do is to start breaking it down into simple actionable tasks, in as much of a programmer mindset as possible:
+### Broken Down into Tasks
 
 1. Generate a random number between 1 and 100.
 2. Record the turn number the player is on. Start it on 1.
