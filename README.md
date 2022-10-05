@@ -1,6 +1,8 @@
 # Guess The Number Game
 
-from the Mozilla Javascript tutorial located [Here](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)
+[Play the game!](https://number-guessing.stackblitz.io)
+
+Based on the Mozilla Javascript tutorial located [Here](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)
 
 ## Prompt
 
